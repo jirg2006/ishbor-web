@@ -3,7 +3,7 @@
  cd ishbor-web
 
 # Bosh loyihani qo‘shish
-echo "# IshBor Web" >> README.md
+echo "# ishbor-web" >> README.md
 git add .
 git commit -m "Initial commit"
 
