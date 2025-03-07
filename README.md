@@ -1,5 +1,5 @@
 # Loyihani kompyuterga yuklash
- git clone https://github.com/YOUR_USERNAME/ishbor-web.git
+ git clone https://github.com/jirg2006/ishbor-web.git
  cd ishbor-web
 
 # Bosh loyihani qo‘shish
